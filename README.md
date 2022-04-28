@@ -1,1 +1,1 @@
-# ass7
+sudo apt dist-upgrade
